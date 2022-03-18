@@ -1,5 +1,5 @@
 import { createContext } from "react";
-
+// Investigate tailwind
 const FirebaseContext = createContext(null);
 export default FirebaseContext;
 // Context allows you to use firebase in another component without poassing down into each sub component props. S
